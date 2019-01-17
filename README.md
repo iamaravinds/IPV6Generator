@@ -13,9 +13,9 @@ What things you need to install the software
 ```
 Java 8
 ```
+### How to run
 
-
-End with an example of getting some data out of the system or using it for a little demo
+Give an IP in IPV6 format as input. Both short hand and full form IPv6 is accepted. You will receive a list of 5000 (by default) IPV6 addresses as response.
 
 
 ## Built With
